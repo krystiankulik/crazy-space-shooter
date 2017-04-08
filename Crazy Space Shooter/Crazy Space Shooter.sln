@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B7352031-6405-8FDE-DC6F-F11AB1A97926}") = "Crazy Space Shooter", "Assembly-CSharp.csproj", "{F81B87BD-CB23-1910-4396-48477741B125}"
+EndProject
+Project("{B7352031-6405-8FDE-DC6F-F11AB1A97926}") = "Crazy Space Shooter", "Assembly-UnityScript.unityproj", "{6880CB95-D84F-6AF3-D2BE-C0C39E5D9824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81B87BD-CB23-1910-4396-48477741B125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81B87BD-CB23-1910-4396-48477741B125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81B87BD-CB23-1910-4396-48477741B125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81B87BD-CB23-1910-4396-48477741B125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6880CB95-D84F-6AF3-D2BE-C0C39E5D9824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880CB95-D84F-6AF3-D2BE-C0C39E5D9824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880CB95-D84F-6AF3-D2BE-C0C39E5D9824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880CB95-D84F-6AF3-D2BE-C0C39E5D9824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
