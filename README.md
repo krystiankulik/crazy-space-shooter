@@ -1,6 +1,6 @@
 # crazy-space-shooter
 
-Crazy Space Shooter is simple game made in Unity3D.
+Crazy Space Shooter is a simple game made in Unity3D (version 5.5.0f3).
 The project is based on Unity Space Shooter and I used some of its 3D models in my game.
 The player has to score points by shooting asteroids and enemies. 
 An asteroid has to be hitten 3 times to be destroyed, an enemy only one time.
